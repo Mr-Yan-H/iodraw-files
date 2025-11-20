@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-2" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-3" value="生产" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="140" height="80" as="geometry" />
