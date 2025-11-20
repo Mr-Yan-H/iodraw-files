@@ -99,7 +99,7 @@
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-47" value="赞助" style="rhombus;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="220" y="140" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-48" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-48" value="赞助" style="rhombus;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="60" y="230" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
