@@ -46,8 +46,8 @@
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-29" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="520" y="470" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-30" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-30" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
