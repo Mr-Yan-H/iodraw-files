@@ -13,12 +13,6 @@
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-3" value="生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="300" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-9" value="产品型号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-10" value="产品价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="370" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-3" target="-Ot8G2yA_ArQIvWbvOSC-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="465" as="sourcePoint" />
@@ -35,41 +29,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="494" y="350" as="sourcePoint" />
             <mxPoint x="414" y="439.9999999999998" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504" y="360" as="sourcePoint" />
-            <mxPoint x="414" y="235" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-9" target="-Ot8G2yA_ArQIvWbvOSC-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="390" as="sourcePoint" />
-            <mxPoint x="726" y="390" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="-Ot8G2yA_ArQIvWbvOSC-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="240" as="sourcePoint" />
-            <mxPoint x="636" y="290" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="-Ot8G2yA_ArQIvWbvOSC-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="439.9999999999998" as="sourcePoint" />
-            <mxPoint x="620" y="400" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-10" target="-Ot8G2yA_ArQIvWbvOSC-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="554" y="410" as="sourcePoint" />
-            <mxPoint x="630" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
