@@ -7,7 +7,7 @@
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-1" value="生产厂商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-2" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-3" value="生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
