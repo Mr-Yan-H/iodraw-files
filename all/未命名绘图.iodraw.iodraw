@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-1" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-1" value="图书管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="423.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-2" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
