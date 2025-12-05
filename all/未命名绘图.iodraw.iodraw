@@ -37,13 +37,10 @@
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-27" value="借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-30" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="-Ot8G2yA_ArQIvWbvOSC-30" edge="1">
+        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650.6217782649105" y="545" as="sourcePoint" />
-            <mxPoint x="729" y="690" as="targetPoint" />
+            <mxPoint x="490.0017782649105" y="600" as="sourcePoint" />
+            <mxPoint x="699.38" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-40" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-Ot8G2yA_ArQIvWbvOSC-32" vertex="1" connectable="0">
@@ -67,31 +64,6 @@
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-47" value="借阅" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="30" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-48" value="赞助" style="rhombus;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="50" y="260" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-48" target="-Ot8G2yA_ArQIvWbvOSC-45" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="450" as="sourcePoint" />
-            <mxPoint x="470" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-53" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-Ot8G2yA_ArQIvWbvOSC-49" vertex="1" connectable="0">
-          <mxGeometry x="0.0326" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-48" target="-Ot8G2yA_ArQIvWbvOSC-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="240" as="sourcePoint" />
-            <mxPoint x="130" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ot8G2yA_ArQIvWbvOSC-54" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-Ot8G2yA_ArQIvWbvOSC-50" vertex="1" connectable="0">
-          <mxGeometry x="-0.1659" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-Ot8G2yA_ArQIvWbvOSC-51" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-Ot8G2yA_ArQIvWbvOSC-47" target="-Ot8G2yA_ArQIvWbvOSC-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
