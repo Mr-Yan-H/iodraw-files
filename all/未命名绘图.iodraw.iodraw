@@ -87,7 +87,7 @@
         <mxCell id="Bh5odXUGcOvrtql-3Q70-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bh5odXUGcOvrtql-3Q70-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bh5odXUGcOvrtql-3Q70-6" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
         <mxCell id="Bh5odXUGcOvrtql-3Q70-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bh5odXUGcOvrtql-3Q70-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bh5odXUGcOvrtql-3Q70-10" value="所在院系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
