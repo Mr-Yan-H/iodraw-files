@@ -81,7 +81,7 @@
         <mxCell id="Bh5odXUGcOvrtql-3Q70-3" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bh5odXUGcOvrtql-3Q70-4" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bh5odXUGcOvrtql-3Q70-4" value="&lt;u&gt;学号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,12 +107,6 @@
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-13" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Bh5odXUGcOvrtql-3Q70-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-Ot8G2yA_ArQIvWbvOSC-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="20" as="sourcePoint" />
-            <mxPoint x="570" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bh5odXUGcOvrtql-3Q70-13" target="-Ot8G2yA_ArQIvWbvOSC-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
