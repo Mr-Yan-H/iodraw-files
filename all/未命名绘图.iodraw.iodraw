@@ -241,19 +241,19 @@
           <mxGeometry x="290" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-42" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="740" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-43" value="邮箱地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-44" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-45" value="负责区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-46" value="入职时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="740" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-47" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="650" width="120" height="80" as="geometry" />
