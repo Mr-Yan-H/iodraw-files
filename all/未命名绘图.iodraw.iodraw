@@ -300,8 +300,8 @@
             <mxPoint x="600" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bh5odXUGcOvrtql-3Q70-56" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="120" height="80" as="geometry" />
+        <mxCell id="Bh5odXUGcOvrtql-3Q70-56" value="图书编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-57" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="230" width="120" height="80" as="geometry" />
@@ -328,7 +328,7 @@
           <mxGeometry x="690" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bh5odXUGcOvrtql-3Q70-65" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
